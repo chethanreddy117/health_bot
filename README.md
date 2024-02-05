@@ -7,7 +7,7 @@ This web based health application has been developed for the accomplishment of F
 Project Link - [https://red-sky-09a7d2f00.3.azurestaticapps.net/index.html](https://chethanreddy117.github.io/health_bot/)
 
 
-**Demo Video** -  https://drive.google.com/file/d/12A0c6TwasBJS-HVQFD0aKoHE3w5-NsqG/view?usp=drive_link
+**Demo Video** - [ https://drive.google.com/file/d/12A0c6TwasBJS-HVQFD0aKoHE3w5-NsqG/view?usp=drive_link](https://drive.google.com/file/d/12A0c6TwasBJS-HVQFD0aKoHE3w5-NsqG/view?usp=sharing)
 
 ## Features and Functionalities 😃
 
