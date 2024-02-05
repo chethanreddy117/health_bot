@@ -18,33 +18,7 @@ Project Link - https://red-sky-09a7d2f00.3.azurestaticapps.net/index.html
 - User is able to book a table through the website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-Screenshots 📸:-
-Home page -   
-![screenshot-red-sky-09a7d2f00 3 azurestaticapps net-2023 09 13-19_24_20](https://github.com/chethanreddy117/Projectg8/assets/137140695/7e8a3825-6913-45b4-bdbf-fce2f3d092a5)
-
-
-
-About Us Page -
-![screenshot-red-sky-09a7d2f00 3 azurestaticapps net-2023 09 13-19_26_10](https://github.com/chethanreddy117/Projectg8/assets/137140695/bc3d3917-6c4a-4827-ac6d-b85719afd969)
-
-
-
-Service page -
-![screenshot-red-sky-09a7d2f00 3 azurestaticapps net-2023 09 13-19_26_37](https://github.com/chethanreddy117/Projectg8/assets/137140695/10ba1696-346b-478d-bfef-eb33196eb9b2)
-
-
-Contact page -
-![screenshot-red-sky-09a7d2f00 3 azurestaticapps net-2023 09 13-19_53_29](https://github.com/chethanreddy117/Projectg8/assets/137140695/81143f08-9932-4a39-be74-64df02251f87)
-
-
-HealthBot Page -
-
- ![screenshot-red-sky-09a7d2f00 3 azurestaticapps net-2023 09 13-19_30_22](https://github.com/chethanreddy117/Projectg8/assets/137140695/6136170a-0215-44e7-b3a5-5897f68b4796)
-
-
-
-
-Tech Stack 💻:-
+ Tech Stack 💻:-
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
